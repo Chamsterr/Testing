@@ -1,7 +1,7 @@
-const ExperimentalTypes   = {
-    LIFTING_BODY: 'lifting_body',
-    HYPERSONIC: 'HYPERSONIC',
-    HIGH_ALTITUDE: 'HIGH_ALTITUDE',
+const ExperimentalTypes = {
+    LIFTING_BODY: 'Lifting Body',
+    HYPERSONIC: 'Hypersonic',
+    HIGH_ALTITUDE: 'High Altitude',
     VTOL: "VTOL"
 };
 
