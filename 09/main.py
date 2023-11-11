@@ -54,6 +54,3 @@ if __name__ == "__main__":
     browser.open_by_url('https://coinmarketcap.com/')
     time.sleep(1)
     browser.use_search()
-
-    while True:
-        ...
