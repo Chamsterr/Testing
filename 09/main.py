@@ -25,7 +25,7 @@ class Browser:
             By.XPATH, value="/html/body/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div/div[3]/div/div[2]/div[3]/div/div/div/div/div[1]/div[1]/div[1]/input")
         search.send_keys(env_vars["coin_name"])
 
-        time.sleep(1)
+        time.sleep(3)
         self._take_screenshot('screenshots/screenshot.png')
 
         coin_elements = self.driver.find_elements(
