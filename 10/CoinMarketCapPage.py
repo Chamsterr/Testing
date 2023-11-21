@@ -26,9 +26,11 @@ class CoinMarketCapPage:
 
         for coin in coin_elements:
             if env_vars["coin_name"] in coin.text:
-                break
+                return True
         else:
             raise Exception("Не пошло")
+        
+        
 
 
     def _take_screenshot(self, save_as: str):
