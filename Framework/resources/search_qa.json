@@ -1,0 +1,4 @@
+[
+    [{"name": "Bitcoin", "quantity": 10, "price": 50000}, false],
+    [{"name": "11adadadadad", "quantity": 5, "price": 30000}, true]
+]

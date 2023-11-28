@@ -1,0 +1,12 @@
+2023/11/28-08:30:25.280 1122d Reusing MANIFEST /mnt/d/Labs/Course 1/EPAM/Version Control with Git/Framework/profile/Default/IndexedDB/https_coinmarketcap.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/11/28-08:30:25.290 1122d Recovering log #42
+2023/11/28-08:30:25.344 1122d Reusing old log /mnt/d/Labs/Course 1/EPAM/Version Control with Git/Framework/profile/Default/IndexedDB/https_coinmarketcap.com_0.indexeddb.leveldb/000042.log 
+2023/11/28-08:32:00.205 1122d Level-0 table #47: started
+2023/11/28-08:32:00.552 1122d Level-0 table #47: 1310605 bytes OK
+2023/11/28-08:32:00.567 1122d Delete type=0 #42
+2023/11/28-08:32:06.301 11225 Compacting 1@1 + 1@2 files
+2023/11/28-08:32:06.381 11225 Generated table #48@1: 443 keys, 30018 bytes
+2023/11/28-08:32:06.382 11225 Compacted 1@1 + 1@2 files => 30018 bytes
+2023/11/28-08:32:06.386 11225 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/11/28-08:32:06.401 11225 Delete type=2 #44
+2023/11/28-08:32:06.402 11225 Delete type=2 #47

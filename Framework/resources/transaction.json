@@ -1,0 +1,26 @@
+[
+    [
+        {
+            "name": "Litecoin",
+            "quantity": 1,
+            "price": 50000
+        },
+        false
+    ],
+    [
+        {
+            "name": "muzaadadwadsad",
+            "quantity": -5,
+            "price": -1
+        },
+        true
+    ],
+    [
+        {
+            "name": "muzaadadwadsad",
+            "quantity": 1,
+            "price": -1
+        },
+        true
+    ]
+]
